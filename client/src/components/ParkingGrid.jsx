@@ -1,0 +1,1 @@
+// ParkingGrid.jsx - Placeholder
