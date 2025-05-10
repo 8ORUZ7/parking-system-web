@@ -1,1 +1,0 @@
-// SpotCard.jsx - Placeholder
