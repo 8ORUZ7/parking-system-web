@@ -1,1 +1,0 @@
-// bookingRoutes.js - Placeholder
